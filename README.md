@@ -7,10 +7,9 @@
   - Cyber Security
   - Artificial Intelligence
 - 🌱 I’m currently learning ...
-  - Security+
-  - Kubernetes
-  - Certified Ethical Hacker (CEH)
+  - BS in Software Engineering
 - 💞️ I’m looking to collaborate on ...
+  - AI/Web/Game projects
 - 📫 How to reach me ...
   - GitHub
 
