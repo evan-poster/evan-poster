@@ -9,11 +9,9 @@
 - 🌱 I’m currently learning ...
   - BS in Software Engineering
 - 💞️ I’m looking to collaborate on ...
-  - AI/Web/Game projects
+  - AI/Web/App/Game projects
 - 📫 How to reach me ...
   - GitHub
   - [LinkedIn](https://www.linkedin.com/in/evan-poster-5633505b/)
-<!---
-evan-poster/evan-poster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+My skills exceed what is listed here. If finding an employer doesn't pan out, I'll start my own thing.
